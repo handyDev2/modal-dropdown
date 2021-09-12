@@ -1,0 +1,11 @@
+.dropdown {
+  min-height: 40px;
+  min-width: 80px;
+  width: fit-content;
+  height: fit-content;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  padding: 10px;
+  background-color: #fff;
+}

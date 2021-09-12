@@ -1,0 +1,18 @@
+.modal {
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.64);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 20;
+}
+
+.modal_container {
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 1px 2px 20px rgba(0, 0, 0, 0.14);
+}
